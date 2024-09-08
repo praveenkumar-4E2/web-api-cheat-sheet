@@ -6,7 +6,7 @@ EventTarget (Base Interface)
 
 │   &nbsp; &nbsp;  &nbsp;  └──(Inherits all Node subclasses)
 
-├── Window
+├── [Window](https://github.com/praveenkumar-4E2/web-api-cheat-sheet/tree/master/Window)
 
 ├── XMLHttpRequest
 
